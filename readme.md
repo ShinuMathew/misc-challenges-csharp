@@ -1,0 +1,1 @@
+# Miscellaneous Automation challenge projects
